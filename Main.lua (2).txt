@@ -1,6 +1,5 @@
 local ArrayField = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/Key%20System.lua"))()
 
-setclipboard("https://discord.gg/d8Yp6qFmSH")
 
 local Window = ArrayField:CreateWindow({
     Name = "Kitler Hub V2",
@@ -9,11 +8,11 @@ local Window = ArrayField:CreateWindow({
     ConfigurationSaving = {
         Enabled = true,
         FolderName = nil,
-        FileName = "CRACKLED HUB BY FROSTLUA "
+        FileName = "Deffo Not skidded "
     },
     Discord = {
         Enabled = true,
-        Invite = "yfKUvY6r",
+        Invite = "SCjMNQySmK",
         RememberJoins = true
     },
     KeySystem = false,
@@ -21,7 +20,7 @@ local Window = ArrayField:CreateWindow({
         Title = "Kitler Key system ",
         Subtitle = "Key System",
         Note = "To get the key join our discord (Guess the damn key)",
-        FileName = "CRACKLED HUB BY FROSTLUA  Key System",
+        FileName = "KitlerR  Key System",
         SaveKey = True,
         GrabKeyFromSite = false,
         Key = {"2VoLiZ9Gbngzm87LB1F9",'GFqQb6oFl4K97m2I735guR7Vw4ez6gELs9gHdNJcCee2aYPqjL'},
@@ -2120,4 +2119,4 @@ Tab5:AddButton({
     end
 })
 
-setclipboard("https://discord.gg/d8Yp6qFmSH")
+setclipboard("https://discord.com/invite/SCjMNQySmK")
