@@ -1,0 +1,1 @@
+--This project is only a beta as I only have 3.5 months of lua. If my projects sucks Im very sorry as im still trying hard to improve.
