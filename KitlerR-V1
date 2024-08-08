@@ -15,7 +15,7 @@ local Window = ArrayField:CreateWindow({
         Invite = "SCjMNQySmK",
         RememberJoins = true
     },
-    KeySystem = false,
+    KeySystem = true,
     KeySettings = {
         Title = "Kitler Key system ",
         Subtitle = "Key System",
